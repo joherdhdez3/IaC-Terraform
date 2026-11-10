@@ -52,3 +52,5 @@ variable "ami_id" {
   type        = string
   default     = null
 }
+# Prueba de integración continua con GitHub Actions
+# Prueba de integración continua
